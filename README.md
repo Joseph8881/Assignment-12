@@ -20,7 +20,7 @@ This project demonstrates exception handling and testing in Python.
 5, 10, 15, 20, 25
 
 ### Test 2: Non Integer Input
-5, abc, 10, 20, 30
+5, abc
 
 ### Test 3: Zero Division
 0, 0, 0, 0, 0
